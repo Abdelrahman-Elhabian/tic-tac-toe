@@ -20,4 +20,4 @@ A simple Tic-Tac-Toe game built with React, featuring a 3x3 grid where two playe
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Abdelrahman-Elhabian/tic-tac-toe>
